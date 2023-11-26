@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.css-1t6e9jv-MuiCardActions-root {
+  justify-content: right;
+}
